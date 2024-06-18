@@ -1,0 +1,2 @@
+# Heckscher-Ohlin Model
+
